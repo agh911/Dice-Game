@@ -16,7 +16,7 @@ body {
 
 h1 {
   margin: 30px;
-  padding-top: 100px;
+  padding-top: 70px;
   font-family: 'Noto Serif', serif;
   text-shadow: 5px 0 #9c070c;
   font-size: 6rem;
@@ -31,6 +31,23 @@ p {
 
 img {
   width: 80%;
+}
+
+.button {
+  padding-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+#btn {
+  width: 125px;
+  height: 50px;
+  font-family: 'Noto Serif', serif;
+  font-weight: bold;
+  background: #9c070c;
+  color: #fffffe;
+  border-radius: 8px;
+  border: none;
 }
 
 footer {
