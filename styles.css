@@ -20,7 +20,7 @@ h1 {
   font-family: 'Noto Serif', serif;
   text-shadow: 5px 0 #9c070c;
   font-size: 6rem;
-  color: #fffffe;
+  color: #f9f1d8;
 }
 
 p {
@@ -45,7 +45,7 @@ img {
   font-family: 'Noto Serif', serif;
   font-weight: bold;
   background: #9c070c;
-  color: #fffffe;
+  color: #f9f1d8;
   border-radius: 8px;
   border: none;
 }
